@@ -1,36 +1,49 @@
 ---
 layout: page
-title: Key Courses Undertaken
+title: Relevant Coursework
 permalink: /miscellany/courses/
 ---
 
-<h2>At &lt;your university name&gt;</h2>
+<h2>At Georgia Institute of Technology</h2>
 
-<h3>Department 1</h3>
+<h3>Mathematics</h3>
 
-<a href="">CS335</a>: Arificial Intelligence and Machine Learning* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS726</a>: Advanced Machine Learning*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS302</a>: Implementation of Programming Languages* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS310</a>: Automata Theory*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS663</a>: Fundamentals of Digital Image Processing
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS475</a>: Computer Graphics
+<ul>
+	<li><a href="https://math.gatech.edu/courses/math/3670"><b>MATH 3670:</b></a> Probability and Statistics with Applications*</li>
+	<li><a href="https://math.gatech.edu/courses/math/1554"><b>MATH 1554:</b></a> Linear Algebra*</li>
+</ul>
 
-<h3>Department 2</h3>
-<a href="">SI404</a>: Applied Stochastic Processes*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI402</a>: Statistical Inference
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
+<h3>Computer Science</h3>
 
-<h3>Department 3</h3>
-<a href="">MA214</a>: Introduction to Numerical Analysis*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Linear Algebra
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Differential Equations
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
+<ul>
+	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>CS 1331:</b></a> Object-Oriented Programming*</li>
+</ul>
 
+
+<br>
+
+
+<h2>At Clayton State University</h2>
+
+<h3>Mathematics</h3>
+
+<ul>
+	<li><b>MATH 4350:</b> Graph Theory</li>
+	<li><b>MATH 2503:</b> Multivariable Calculus</li>
+	<li><b>MATH 2502:</b> Calculus II</li>
+</ul>
+
+<br>
 
 <h2>MOOC</h2>
-<a href="http://cs231n.stanford.edu/">CS231n</a>: Convolutional Neural Networks for Visual Recognition
-<b>&nbsp;&middot;&nbsp;</b> <a href="http://cs224d.stanford.edu/">CS224d</a>: Deep Learning for Natural Language Processing
+
+<ul>
+	<li><a href="https://www.coursera.org/learn/game-theory-1">Game Theory I*</a></li>
+	<li><a href="https://www.coursera.org/learn/combinatorial-game-theory">Games Without Chance: Combinatorial Game Theory</a></li>
+	<li><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">TensorFlow for Deep Learning</a></li>
+	<li><a href="https://www.udacity.com/course/intro-to-data-analysis--ud170">Data Analysis with Python</a></li>
+</ul>
 
 <div align= "right">
-	*<i>pursuing currently</i><br><sup>&dagger;</sup><i>accompanied by a separate lab course</i>
+	*<i>pursuing currently</i>
 </div>

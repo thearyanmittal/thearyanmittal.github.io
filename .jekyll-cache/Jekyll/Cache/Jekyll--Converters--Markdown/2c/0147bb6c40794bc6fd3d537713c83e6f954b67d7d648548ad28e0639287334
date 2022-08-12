@@ -1,0 +1,30 @@
+I"�<h2>At &lt;your university name&gt;</h2>
+
+<h3>Department 1</h3>
+
+<p><a href="">CS335</a>: Arificial Intelligence and Machine Learning* <sup>†</sup>
+<b> · </b> <a href="">CS726</a>: Advanced Machine Learning*
+<b> · </b> <a href="">CS302</a>: Implementation of Programming Languages* <sup>†</sup>
+<b> · </b> <a href="">CS310</a>: Automata Theory*
+<b> · </b> <a href="">CS663</a>: Fundamentals of Digital Image Processing
+<b> · </b> <a href="">CS475</a>: Computer Graphics</p>
+
+<h3>Department 2</h3>
+<p><a href="">SI404</a>: Applied Stochastic Processes*
+<b> · </b> <a href="">SI402</a>: Statistical Inference
+<b> · </b> <a href="">SI417</a>: Introduction to Probability Theory</p>
+
+<h3>Department 3</h3>
+<p><a href="">MA214</a>: Introduction to Numerical Analysis*
+<b> · </b> <a href="">MA106</a>: Linear Algebra
+<b> · </b> <a href="">MA108</a>: Differential Equations
+<b> · </b> <a href="">MA105</a>: Calculus</p>
+
+<h2>MOOC</h2>
+<p><a href="http://cs231n.stanford.edu/">CS231n</a>: Convolutional Neural Networks for Visual Recognition
+<b> · </b> <a href="http://cs224d.stanford.edu/">CS224d</a>: Deep Learning for Natural Language Processing</p>
+
+<div align="right">
+	*<i>pursuing currently</i>
+</div>
+:ET
