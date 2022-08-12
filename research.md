@@ -4,11 +4,11 @@ permalink: /research/
 title: Research
 ---
 
-Describe your research interests here.
+Currently, I am conducting research at the intersection of game theory, graph theory, and computational complexity theory, though I am always looking to expand my breadth of mathematical knowledge and interests.
 
 <h2>Publications</h2>
 <ul>
-	<li>
+	<!-- <li>
 		<b>"Paper title #1"</b><br>
 		<i>List of authors</i><br>
 		Conference, Year<br>
@@ -19,26 +19,21 @@ Describe your research interests here.
 		<i>List of authors</i><br>
 		Conference, Year<br>
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
+	</li><br> -->
 </ul>
 
-<h2>Research Projects</h2>
+<h2>Ongoing Research Projects</h2>
 <ul>
 	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
-		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
-		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>The Cordiality Game and the Game Cordiality Number</b><br>
+		Clayton State University, October 2021-Present<br>
+		<i>With <a href="https://facultyprofiles.clayton.edu/faculty/ekrop">Dr. Elliot Krop</a> and 
+			<a href="https://mwigal3.math.gatech.edu/">Michael Wigal</a>.</i><br>
+		<a href="/research/cordiality_abstract.pdf"><div class="color-button">abstract</div></a><a href="https://github.com/thearyanmittal/cordiality-game"><div class="color-button">code</div></a>
 	</li><br>
 </ul>
 
-<h2>Research Implementations</h2>
+<!-- <h2>Research Implementations</h2>
 <ul>
 	<li>
 		<b>Title #1</b>: Brief description of this research implementation.<br>
@@ -48,4 +43,4 @@ Describe your research interests here.
 		<b>Title #2</b>: Brief description of this research implementation.<br>
 		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
-</ul>
+</ul> -->
