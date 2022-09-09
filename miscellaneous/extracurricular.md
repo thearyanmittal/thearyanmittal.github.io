@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Extracurriculars
-permalink: /miscellany/extracurricular/
+permalink: /miscellaneous/extracurricular/
 ---
 

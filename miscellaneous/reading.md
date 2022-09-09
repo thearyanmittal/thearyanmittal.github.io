@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading
-permalink: /miscellany/reading/
+permalink: /miscellaneous/reading/
 ---
 
 Here's a list of books I've read that I find particularly enlightening:

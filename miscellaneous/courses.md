@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Relevant Coursework
-permalink: /miscellany/courses/
+permalink: /miscellaneous/courses/
 ---
 
 <h2>At Georgia Institute of Technology</h2>
