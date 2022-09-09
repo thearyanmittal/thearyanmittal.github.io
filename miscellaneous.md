@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Miscellany
-permalink: /miscellany/
+title: Miscellaneous
+permalink: /miscellaneous/
 ---
 
 <ul>

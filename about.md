@@ -10,4 +10,4 @@ Hi! I'm Aryan, a first-year Mathematics and Computer Science student at Georgia 
 
 I'm interested in the fields of combinatorics, game theory, data science, and their real-world applications in areas such as sports analytics and operations research. 
 
-In my free time, I am an avid Atlanta sports fan. When I'm not busy cheering on my Braves or Falcons, you can probably find me watching a sci-fi movie, <a href="/miscellany/reading/">reading</a>, or (re)watching *Seinfeld*.
+In my free time, I am an avid Atlanta sports fan. When I'm not busy cheering on my Braves or Falcons, you can probably find me watching a sci-fi movie, <a href="/miscellaneous/reading/">reading</a>, or (re)watching *Seinfeld*.
