@@ -4,12 +4,6 @@ title: Extracurriculars
 permalink: /miscellaneous/extracurricular/
 ---
 
-<style>
-    img {
-        border: 0;
-    }
-</style>
-
 {% include image.html url="/images/yjsp.png" width=200 align="right" %}
 
 <h2><a href="https://www.gtspaceprogram.com/">Yellow Jacket Space Program</a></h2>
