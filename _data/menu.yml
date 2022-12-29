@@ -10,12 +10,5 @@
 - title: "Research"
   href: "/research/"
 
-- title: "Miscellaneous"
-  href: "/miscellaneous/"
-  subcategories:
-    - subtitle: "Coursework"
-      subhref: "/miscellaneous/courses"
-    - subtitle: "Involvement"
-      subhref: "/miscellaneous/extracurricular/"
-    - subtitle: "Reading"
-      subhref: "/miscellaneous/reading/"
+- title: "Coursework"
+  href: "/courses/"
