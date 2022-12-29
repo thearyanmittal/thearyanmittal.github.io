@@ -9,14 +9,19 @@ permalink: /miscellaneous/courses/
 <h3>Mathematics</h3>
 
 <ul>
-	<li><a href="https://math.gatech.edu/courses/math/3670"><b>MATH 3670:</b></a> Probability and Statistics with Applications*</li>
-	<li><a href="https://math.gatech.edu/courses/math/1554"><b>MATH 1554:</b></a> Linear Algebra*</li>
+	<li><a href="https://math.gatech.edu/courses/math/3406"><b>MATH 3406:</b></a> A Second Course on Linear Algebra*</li>
+	<li><a href="https://math.gatech.edu/courses/math/3012"><b>MATH 3012:</b></a> Applied Combinatorics*</li>
+	<li><a href="https://math.gatech.edu/courses/math/3670"><b>MATH 3670:</b></a> Probability and Statistics with Applications</li>
+	<li><a href="https://math.gatech.edu/courses/math/1554"><b>MATH 1554:</b></a> Linear Algebra</li>
 </ul>
 
 <h3>Computer Science</h3>
 
 <ul>
-	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>CS 1331:</b></a> Object-Oriented Programming*</li>
+	<li><a href="https://datamastery.gitlab.io/databases/syllabus.html"><b>CS 4400:</b></a> Database Systems*</li>
+	<li><a href="https://gt-student-wiki.org/mediawiki/index.php/CS_2050#Topics_List"><b>CS 2050:</b></a> Discrete Mathematics*</li>
+	<li><a href="https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf"><b>CS 1332:</b></a> Data Structures and Algorithms*</li>
+	<li><a href="https://faculty.cc.gatech.edu/~stasko/1331/index.html"><b>CS 1331:</b></a> Object-Oriented Programming</li>
 </ul>
 
 
@@ -45,5 +50,5 @@ permalink: /miscellaneous/courses/
 </ul>
 
 <div align= "right">
-	*<i>pursuing currently</i>
+	*<i>in progress</i>
 </div>
