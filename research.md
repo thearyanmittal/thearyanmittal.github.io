@@ -26,14 +26,14 @@ Currently, I am conducting research in both data science and graph theory, thoug
 <ul>
 	<li>
 		<b>A Logistic Regression/Markov Chain Model for the NFL</b><br>
-		School of Industrial and Systems Engineering, Georgia Tech, January 2023-Present<br>
+		School of Industrial and Systems Engineering, Georgia Tech (January 2023—Present)<br>
 		<i>With <a href="https://www2.isye.gatech.edu/faculty/Joel_Sokol/">Dr. Joel Sokol</a>.</i><br>
 		<a href="/research/lrmc_nfl_abstract.pdf"><div class="color-button">abstract</div></a>
 		<!-- <a href="https://github.com/thearyanmittal/cordiality-game"><div class="color-button">code</div></a> -->
 	</li><br>
 	<li>
 		<b>The Cordiality Game and the Game Cordiality Number</b><br>
-		Department of Mathematics, Clayton State University, October 2021-Present<br>
+		Department of Mathematics, Clayton State University (October 2021—Present)<br>
 		<i>With <a href="https://facultyprofiles.clayton.edu/faculty/ekrop">Dr. Elliot Krop</a> and 
 			<a href="https://mwigal3.math.gatech.edu/">Michael Wigal</a>.</i><br>
 		<a href="/research/cordiality_abstract.pdf"><div class="color-button">abstract</div></a><a href="https://github.com/thearyanmittal/cordiality-game"><div class="color-button">code</div></a>
