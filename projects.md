@@ -8,7 +8,7 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 
 <ul>
 	<li>
-		<b>Atlanta Home Rental Price Prediction</b>: A data science project aimed at predicting the prices of home rentals in the Atlanta region. Data was scraped from the Georgia MLS site. To date, I have performed extensive cleaning and preprocessing measures on the dataset and examined the correlation between home rental price and various features and factors using a variety of visualizations. I am currently experimenting with and evaluating the performance of various machine learning regression models on the data.<br>
+		<b>Atlanta Home Rental Price Prediction</b>: A data science project aimed at predicting the prices of home rentals in the Atlanta region. Data was scraped from the Georgia MLS site. I performed extensive cleaning and preprocessing measures on the dataset and visualized the correlation between home rental price and various features and factors. I evaluated the performance of multiple regression models on the dataset and built a model that accurately predicts home rental prices to within roughly $600.<br>
 		<a href="https://github.com/thearyanmittal/atl-home-rentals"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
