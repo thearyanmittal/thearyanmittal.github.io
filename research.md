@@ -27,7 +27,7 @@ Currently, I am conducting research in both data science and graph theory, thoug
 	<li>
 		<b>A Logistic Regression/Markov Chain Model for the NFL</b><br>
 		School of Industrial and Systems Engineering, Georgia Tech, January 2023-Present<br>
-		<i>With <a href="https://facultyprofiles.clayton.edu/faculty/ekrop">Dr. Joel Sokol</a>
+		<i>With <a href="https://www2.isye.gatech.edu/faculty/Joel_Sokol/">Dr. Joel Sokol</a>.</i><br>
 		We are applying an original LRMC model to generate improved NFL team power rankings. The goal is to quantify home field advantage in the NFL and better predict playoff outcomes.
 		<!-- <a href="/research/cordiality_abstract.pdf"><div class="color-button">abstract</div></a><a href="https://github.com/thearyanmittal/cordiality-game"><div class="color-button">code</div></a> -->
 	</li><br>
