@@ -16,7 +16,7 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">demo</div></a><a href="https://github.com/thearyanmittal/the-tank"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>Balanced News Aggregator</b>: A news aggregator web application designed to combat political confirmation bias and built with the Django framework. It scrapes news articles (using BeautifulSoup) from websites on both sides of the political spectrum and presents them to the user in one webpage. Note: the site may take a while to load.<br>
+		<b>Balanced News Aggregator</b>: A news aggregator web application designed to combat political confirmation bias and built with the Django framework. It scrapes news articles (using BeautifulSoup) from websites on both sides of the political spectrum and presents them to the user in one webpage.<br>
 		<a href="https://github.com/thearyanmittal/news-aggregator"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
