@@ -17,7 +17,7 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 	</li><br>
 	<li>
 		<b>Balanced News Aggregator</b>: A news aggregator web application designed to combat political confirmation bias and built with the Django framework. It scrapes news articles (using BeautifulSoup) from websites on both sides of the political spectrum and presents them to the user in one webpage. Note: the site may take a while to load.<br>
-		<a href="http://www.balancednews.us/"><div class="color-button">site</div></a><a href="https://github.com/thearyanmittal/news-aggregator"><div class="color-button">code</div></a>
+		<a href="https://github.com/thearyanmittal/news-aggregator"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>Facial Recognition and Mask Detection</b>: A Python facial recognition program that identifies and labels faces in live webcam feed. It also detects whether a face mask is being worn properly. It was used by small business owners during COVID-19 to help enforce mask-required policies at their stores.<br>
