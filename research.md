@@ -10,7 +10,7 @@ Currently, I am conducting research in data science, though I am always looking 
 <ul>
 	<li>
 		<b>The Cordiality Game and the Game Cordiality Number</b><br>
-		Department of Mathematics, Clayton State University (October 2021-May 2023)<br>
+		Department of Mathematics, Clayton State University (October 2021 — May 2023)<br>
 		<i>With <a href="https://facultyprofiles.clayton.edu/faculty/ekrop">Dr. Elliot Krop</a> and 
 			<a href="https://mwigal3.math.gatech.edu/">Michael Wigal</a>. Submitted.</i><br>
 		<a href="/research/cordiality_abstract.pdf"><div class="color-button">abstract</div></a>
@@ -28,14 +28,14 @@ Currently, I am conducting research in data science, though I am always looking 
 <ul>
 	<li>
 		<b>Football Synergy: Evaluating the Chemistry Between Football Players</b><br>
-		School of Industrial and Systems Engineering, Georgia Tech (January 2023—Present)<br>
+		School of Industrial and Systems Engineering, Georgia Tech (January 2023 — Present)<br>
 		<i>With <a href="https://www2.isye.gatech.edu/faculty/Joel_Sokol/">Dr. Joel Sokol</a>.</i><br>
 		<a href="/research/football_chemistry_proposal.pdf"><div class="color-button">proposal</div></a>
 		<!-- <a href="https://github.com/thearyanmittal/nfl-lrmc"><div class="color-button">code</div></a> -->
 	</li><br>
 	<li>
 		<b>A Logistic Regression/Markov Chain Model for the NFL</b><br>
-		School of Industrial and Systems Engineering, Georgia Tech (January 2023—Present)<br>
+		School of Industrial and Systems Engineering, Georgia Tech (January 2023 — Present)<br>
 		<i>With <a href="https://www2.isye.gatech.edu/faculty/Joel_Sokol/">Dr. Joel Sokol</a>.</i><br>
 		<a href="/research/lrmc_nfl_abstract.pdf"><div class="color-button">abstract</div></a>
 		<a href="https://github.com/thearyanmittal/nfl-lrmc"><div class="color-button">code</div></a>
@@ -46,7 +46,7 @@ Currently, I am conducting research in data science, though I am always looking 
 <ul>
 	<li>
 		<b>Solving Diophantine Equations</b><br>
-		School of Mathematics, Georgia Tech (January 2023-May 2023)<br>
+		School of Mathematics, Georgia Tech (January 2023 — May 2023)<br>
 		<i>Mentored by <a href="https://www.linkedin.com/in/nattakorn-kittisut">Nattakorn Kittisut</a>.</i><br>
 		<a href="/research/drp23_slides.pdf"><div class="color-button">slides</div></a>
 	</li><br>
