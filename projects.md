@@ -12,16 +12,16 @@ Here is a non-exhaustive list of my non-research projects. My research work can 
 		<a href="https://github.com/thearyanmittal/atl-home-rentals"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
+		<b>Formulytics</b>: Formulytics is a live Formula 1 race visualizer that only requires lap time data to function. Formulytics also uses this data to predict the expected finish position of each racer through an original neural network and receive live updates of your favorite racer through text. Won "Best Sports Project" and $500 in prizes at Hacklytics 2023 (Data Science @ Georgia Tech's signature 36 hour hackathon with over 400 participants).<br>
+		<a href="https://devpost.com/software/formulytics"><div class="color-button">demo</div></a><a href="https://github.com/thearyanmittal/formulytics"><div class="color-button">code</div></a>
+	</li><br>
+	<li>
 		<b>The Tank</b>: We created a fully remote-controlled model tank with a laser pointer turret and an onboard camera that streamed live 720p60 video to a web server from scratch over 4 weeks. I was responsible for writing the software for the controller, tank motion, online streaming video server, and communication between the remote control and tank. We presented this project at the GHP (Governor's Honors Program) 58 Engineering Expo to GHP students and faculty.<br>
 		<a href="https://github.com/thearyanmittal/the-tank/tree/main/demo"><div class="color-button">demo</div></a><a href="https://github.com/thearyanmittal/the-tank"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>Balanced News Aggregator</b>: A news aggregator web application designed to combat political confirmation bias and built with the Django framework. It scrapes news articles (using BeautifulSoup) from websites on both sides of the political spectrum and presents them to the user in one webpage.<br>
 		<a href="https://github.com/thearyanmittal/news-aggregator"><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Facial Recognition and Mask Detection</b>: A Python facial recognition program that identifies and labels faces in live webcam feed. It also detects whether a face mask is being worn properly. It was used by small business owners during COVID-19 to help enforce mask-required policies at their stores.<br>
-		<a href="https://github.com/thearyanmittal/facial-recognition"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>Animated Education</b>: A group of videos animated with the Python animation engine <i>manim</i> to explain concepts in other subjects (Calculus and Chemistry).<br>

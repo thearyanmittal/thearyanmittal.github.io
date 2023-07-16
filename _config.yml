@@ -4,7 +4,7 @@ general_email: thearyanmittal@gmail.com
 academic_email: aryan.mittal@gatech.edu
 
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a Georgia Tech Mathematics and Computer Science student interested in combinatorics, game theory, and data science.
+  I'm a Georgia Tech Mathematics and Computer Science student interested in game theory, probability, and data science.
   Feel free to contact me via email or LinkedIn.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
