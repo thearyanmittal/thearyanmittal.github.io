@@ -42,6 +42,16 @@ Currently, I am conducting research in data science, though I am always looking 
 	</li><br>
 </ul>
 
+<h2>Directed Reading Program Presentations</h2>
+<ul>
+	<li>
+		<b>Solving Diophantine Equations</b><br>
+		School of Mathematics, Georgia Tech (January 2023—Present)<br>
+		<i>Mentored by <a href="https://www.linkedin.com/in/nattakorn-kittisut">Nattakorn Kittisut</a>.</i><br>
+		<a href="/research/drp23_slides.pdf"><div class="color-button">slides</div></a>
+	</li><br>
+</ul>
+
 <!-- <h2>Research Implementations</h2>
 <ul>
 	<li>
