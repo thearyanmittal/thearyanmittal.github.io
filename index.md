@@ -17,7 +17,9 @@ title: Home
 			</div>
 		</div>
 		<div id="intro-image-wrapper">
-			<img id="intro-image" src="/images/msft.png"></div>
+			<!-- <img id="intro-image" src="/images/msft.png"></div> -->
+			<img id="intro-image" src="/images/casual.png">
+		</div>
 	</div>
 	<div id="everything-else" class="l-middle">
 		<a href="{{ site.url }}/resume.pdf"><div><i class="fa fa-portrait icon icon-right-space"></i>Resume</div></a>
