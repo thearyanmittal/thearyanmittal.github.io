@@ -32,7 +32,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I’m interested in the fields of data science, machine learning, statistics, and their real-world applications in areas such as sports analytics and operations research.
+		I’m interested in machine learning, statistics, optimization, and their application in sports analytics and quantitative finance.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
@@ -55,6 +55,6 @@ title: Home
 
 <br>
 
-[gt]: http://www.gatech.edu "Georgia Tech"
+[gt]: https://www.gatech.edu "Georgia Tech"
 [math]: https://math.gatech.edu/ "Georgia Tech School of Mathematics"
-[coc]: http://www.cc.gatech.edu "Georgia Tech College of Computing"
+[coc]: https://www.cc.gatech.edu "Georgia Tech College of Computing"

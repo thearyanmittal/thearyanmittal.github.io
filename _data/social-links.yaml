@@ -18,7 +18,7 @@
   description: "thearyanmittal"
   color: "#0077b5"
   class: "fab fa-linkedin-in icon"
-  url: "http://www.linkedin.com/in/thearyanmittal"
+  url: "https://www.linkedin.com/in/thearyanmittal"
   on-homepage: true
 
 - id: home
