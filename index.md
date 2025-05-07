@@ -22,9 +22,9 @@ title: Home
 		</div>
 	</div>
 	<div id="everything-else" class="l-middle">
-		<a href="{{ site.url }}/resume.pdf"><div><i class="fa fa-portrait icon icon-right-space"></i>Resume</div></a>
-		<a href="{{ site.url }}/projects"><div><i class="fas fa-laptop-code icon icon-right-space"></i>Projects</div></a>
-		<a href="{{ site.url }}/lrmc-rankings"><div><i class="fas fa-football-ball icon icon-right-space"></i>LRMC Rankings</div></a>
+		<a href="/resume.pdf"><div><i class="fa fa-portrait icon icon-right-space"></i>Resume</div></a>
+		<a href="/projects"><div><i class="fas fa-laptop-code icon icon-right-space"></i>Projects</div></a>
+		<a href="/lrmc-rankings"><div><i class="fas fa-football-ball icon icon-right-space"></i>LRMC Rankings</div></a>
 	</div>
 	<hr class="l-middle home-hr">
 	<div>
