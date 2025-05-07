@@ -1,0 +1,19 @@
+{
+  "name": "thearyanmittal.github.io",
+  "version": "1.0.0",
+  "description": "Aryan Mittal's website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thearyanmittal/thearyanmittal.github.io.git"
+  },
+  "author": "Aryan Mittal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thearyanmittal/thearyanmittal.github.io/issues"
+  },
+  "homepage": "https://github.com/thearyanmittal/thearyanmittal.github.io#readme"
+}

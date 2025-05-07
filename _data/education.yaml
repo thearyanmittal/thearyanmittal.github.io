@@ -1,0 +1,15 @@
+- degree: "M.S. in Computer Science"
+  institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  years: May 2026
+  institution-url: https://www.cc.gatech.edu/
+  description:
+    - "GPA: 4.00/4.00"
+
+- degree: "B.S. in Computer Science, Minor in Mathematics"
+  years: May 2025
+  institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  description: 
+    - "GPA: 4.00/4.00"
+  institution-url: https://www.gatech.edu/

@@ -1,9 +1,9 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
+gem "jekyll", github: "jekyll/jekyll"
+gem "jekyll-sitemap", "~> 1.4"
 
-# gem "rails"
+gem "jekyll-feed", "~> 0.13.0"
 
-gem "jekyll", "~> 4.2"
+gem "rouge", "~> 3.19"
 
-gem "webrick", "~> 1.7"
+gem "jekyll-redirect-from", "~> 0.16.0"

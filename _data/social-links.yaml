@@ -1,0 +1,46 @@
+- id: email
+  description: "thearyanmittal@gmail.com"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:thearyanmittal@gmail.com"
+  on-homepage: true
+  cv-group: 1
+
+- id: github
+  description: "@thearyanmittal"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/thearyanmittal"
+  on-homepage: true
+  cv-group: 2
+
+- id: linkedin
+  description: "thearyanmittal"
+  color: "#0077b5"
+  class: "fab fa-linkedin-in icon"
+  url: "http://www.linkedin.com/in/thearyanmittal"
+  on-homepage: true
+
+- id: home
+  description: "thearyanmittal.com"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://thearyanmittal.com"
+  on-homepage: false
+  cv-group: 1
+
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?user=KKFIttIAAAAJ&hl=en"
+  on-homepage: true
+  cv-group: 2
+
+- id: resume
+  description: Resume PDF
+  color: "#ba2818"
+  class: "far fa-file-pdf icon"
+  url: "/resume.pdf"
+  on-homepage: false
+  cv-group: 1
