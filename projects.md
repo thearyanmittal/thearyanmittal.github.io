@@ -6,6 +6,8 @@ permalink: projects/
 
 Cool things I've worked on, as part of research, courses, or just on the side.
 
+<hr>
+
 <div class="cover-wrapper cover-wrapper-3-col l-page">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
