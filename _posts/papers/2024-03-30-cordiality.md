@@ -12,13 +12,13 @@ url: /papers/summit
 pdf: /papers/cordiality-paper.pdf
 feature-title: The Cordiality Game
 feature-description: "An original combinatorial game based on labelings of graphs."
-image: /images/featured/cordiality.png
+image: /images/featured/cordiality.jpg
 featured: true
 dissertation: true
 feature-order: 3
 selected: true
 type: journal
-figure: /images/papers/cordiality.png
+figure: /images/papers/cordiality.jpg
 doi: "10.1007/s00373-024-02798-1"
 ---
 

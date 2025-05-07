@@ -17,8 +17,8 @@ title: Home
 			</div>
 		</div>
 		<div id="intro-image-wrapper">
-			<!-- <img id="intro-image" src="/images/msft.png"></div> -->
-			<img id="intro-image" src="/images/casual.png">
+			<!-- <img id="intro-image" src="/images/msft.jpg"></div> -->
+			<img id="intro-image" src="/images/casual.jpg">
 		</div>
 	</div>
 	<div id="everything-else" class="l-middle">

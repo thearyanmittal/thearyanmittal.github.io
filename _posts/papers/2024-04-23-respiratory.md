@@ -17,13 +17,13 @@ video: https://www.youtube.com/watch?v=CtWJa8nO2mg
 code: https://github.com/thearyanmittal/respiratory-audio-classification
 feature-title: Respiratory Audio Disease Detection
 feature-description: "Identifying pulmonary diseases from breathing audio samples."
-image: /images/featured/respiratory.png
+image: /images/featured/respiratory.jpg
 featured: false
 dissertation: true
 feature-order: 5
 selected: true
 type: journal
-figure: /images/papers/respiratory.png
+figure: /images/papers/respiratory.jpg
 ---
 
 A supervised and unsupervised learning approach to analyzing breathing audio data collected via stethoscope. We achieve a 91.3% accuracy rate in distinguishing between 7 different respiratory conditions using a ResNet-based architecture on audio spectrograms. This was completed as my final project for Georgia Tech's CS 7641: Machine Learning.
