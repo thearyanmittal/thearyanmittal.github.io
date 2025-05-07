@@ -1,6 +1,6 @@
 title: Aryan Mittal
 tagline: Machine Learning Student at Georgia Tech
-url: http://thearyanmittal.com
+url: https://thearyanmittal.com
 baseurl: ""
 # gems: [jekyll-paginate]
 # paginate: 5
@@ -15,7 +15,7 @@ sass:
 
 author:
   name: Aryan Mittal
-  url: http://thearyanmittal.com
+  url: https://thearyanmittal.com
   email: thearyanmittal@gmail.com
 
 markdown: kramdown
