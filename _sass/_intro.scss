@@ -114,7 +114,6 @@ $cv-icon-aspect-ratio: 1.33;
 
 .home-hr {
 	margin: 1.5rem 0;
-	
 }
 
 .feature-title {
@@ -164,6 +163,15 @@ $cv-icon-aspect-ratio: 1.33;
 	font-size: 1rem;
 	color: $text-color;
 	font-weight: 500;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#everything-else > a > div {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 #everything-else > a:hover {
@@ -183,10 +191,14 @@ $cv-icon-aspect-ratio: 1.33;
 	}
 }
 
+.icon-right-space {
+	margin-right: 0.5rem;
+}
+
 @media screen and (max-width: $mobile) {
 	#intro-image {
-		height: 5rem;
-		width: 5rem;
+		height: 11rem;
+		width: 14rem;
 	}
 
 	#intro-title {
