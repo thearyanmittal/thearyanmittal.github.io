@@ -1,8 +1,8 @@
 ---
-layout: paper
+layout: project
 id: respiratory
-categories: papers
-permalink: papers/respiratory
+categories: projects
+permalink: projects/respiratory
 title: "Detecting Disease from Respiratory Audio"
 authors:
   - Aryan Mittal
@@ -10,7 +10,7 @@ authors:
   - Arush Verma
   - Mithun Subhash
   - Prajwal Mohan Kumar
-url: /papers/respiratory
+url: /projects/respiratory
 pdf: https://msub9.github.io/
 slides: /slides/respiratory-slides.pdf
 video: https://www.youtube.com/watch?v=CtWJa8nO2mg
@@ -23,7 +23,7 @@ dissertation: true
 feature-order: 5
 selected: true
 type: journal
-figure: /images/papers/respiratory.jpg
+figure: /images/projects/respiratory.jpg
 ---
 
 A supervised and unsupervised learning approach to analyzing breathing audio data collected via stethoscope. We achieve a 91.3% accuracy rate in distinguishing between 7 different respiratory conditions using a ResNet-based architecture on audio spectrograms. This was completed as my final project for Georgia Tech's CS 7641: Machine Learning.

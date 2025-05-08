@@ -45,7 +45,7 @@ title: Home
 <h2 class="feature-title">Featured <a href="/projects">Projects</a></h2>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">
-	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
+	{% assign sortedPublications = site.categories.projects | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
 		{% if feature.featured == true %}
 			{% include feature.html feature=feature %}

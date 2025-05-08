@@ -1,14 +1,14 @@
 ---
-layout: paper
+layout: project
 id: cordiality
-categories: papers
-permalink: papers/cordiality
+categories: projects
+permalink: projects/cordiality
 title: "The Cordiality Game and the Game Cordiality Number"
 authors:
   - Aryan Mittal
   - Elliot Krop
   - Michael Wigal
-url: /papers/summit
+url: /projects/cordiality
 pdf: /papers/cordiality-paper.pdf
 feature-title: The Cordiality Game
 feature-description: "An original combinatorial game based on labelings of graphs."
@@ -18,7 +18,7 @@ dissertation: true
 feature-order: 3
 selected: true
 type: journal
-figure: /images/papers/cordiality.jpg
+figure: /images/projects/cordiality.jpg
 doi: "10.1007/s00373-024-02798-1"
 ---
 
