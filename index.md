@@ -6,8 +6,8 @@ title: Home
 <div id="intro-wrapper" class="l-text">
 	<div id="intro-title-wrapper">
 		<div id="intro-title-text-wrapper">
-			<h1 id="intro-title">Hi, I'm <br> Aryan Mittal</h1>
-			<div id="intro-subtitle">I'm a student at Georgia Tech.</div>
+			<h1 id="intro-title">Aryan Mittal</h1>
+			<div id="intro-subtitle">Student at Georgia Tech</div>
 			<div id="intro-title-socials">
 				{% for link in site.data.social-links %}
 					{% if link.on-homepage == true %}
@@ -28,11 +28,11 @@ title: Home
 	</div>
 	<hr class="l-middle home-hr">
 	<div>
-		Hi! I’m Aryan, a Machine Learning graduate student at <img class="intro-logo" style="width: 24px; padding-bottom: 3px;" src="/images/gt.svg"> Georgia Tech, an incoming Risk Technology Intern at <img class="intro-logo" style="width: 20px; padding-bottom: 3px;" src="/images/millennium.svg"> Millennium, and a former Software Engineering Intern at <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft and <img class="intro-logo" style="width: 15px; padding-bottom: 3px;" src="/images/ups.svg"> UPS.
+		Hi! I’m Aryan, a Machine Learning graduate student at <img class="intro-logo" style="width: 24px; padding-bottom: 3px;" src="/images/gt.svg"> Georgia Tech. I'm interested in machine learning, statistics, optimization, and their applications in sports analytics and quantitative finance.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I’m interested in machine learning, statistics, optimization, and their application in sports analytics and quantitative finance.
+		In the past, I've been a Risk Technology Intern at <img class="intro-logo" style="width: 20px; padding-bottom: 3px;" src="/images/millennium.svg"> Millennium, and a former Software Engineering Intern at <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft and <img class="intro-logo" style="width: 15px; padding-bottom: 3px;" src="/images/ups.svg"> UPS.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
