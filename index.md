@@ -42,7 +42,8 @@ title: Home
 
 <hr class="l-middle home-hr">
 
-<h2 class="feature-title">Featured <a href="/projects">Projects</a></h2>
+<!-- <h2 class="feature-title">Featured <a href="/projects">Projects</a></h2> -->
+<h2 class="feature-title">Featured Projects</h2>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">
 	{% assign sortedPublications = site.categories.projects | sort: 'feature-order' %}
@@ -53,7 +54,9 @@ title: Home
 	{% endfor %}
 </div>
 
-<br>
+<div id="everything-else" class="see-all">
+	<a href="/projects"><div>See All Projects ►</div></a>
+</div>
 
 [gt]: https://www.gatech.edu "Georgia Tech"
 [math]: https://math.gatech.edu/ "Georgia Tech School of Mathematics"

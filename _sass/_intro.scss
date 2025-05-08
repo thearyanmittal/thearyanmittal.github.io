@@ -180,14 +180,35 @@ $cv-icon-aspect-ratio: 1.33;
 	transform: scale(1.03);
 }
 
+#everything-else.see-all {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 1rem;
+	margin-top: 2rem;
+}
+
+#everything-else.see-all > a {
+	grid-column: 2;
+	justify-self: flex-end;
+	width: auto;
+	padding: 0.75rem 1.5rem;
+}
+
 @media screen and (max-width: $homepage-pre-mobile) {
 	#intro-wrapper, .feature-title, .feature-text, .intro-text, .home-hr {
 		grid-column: page !important;
 	}
+
 	#everything-else {
 		grid-column: page !important;
 		display: flex;
 		flex-direction: row;
+	}
+
+	#everything-else.see-all {
+		grid-column: page;
+		display: flex;
+		justify-content: flex-end;
 	}
 }
 
@@ -222,5 +243,14 @@ $cv-icon-aspect-ratio: 1.33;
 		// font-size: 1.1rem;
 		color: $text-color;
 		font-weight: 500;
+	}
+
+	#everything-else.see-all {
+		grid-template-columns: 1fr;
+	}
+
+	#everything-else.see-all > a {
+		grid-column: 1;
+		justify-self: flex-end;
 	}
 }
