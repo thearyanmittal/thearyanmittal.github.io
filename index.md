@@ -32,7 +32,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		In the past, I've been a Risk Technology Intern at <img class="intro-logo" style="width: 20px; padding-bottom: 3px;" src="/images/millennium.svg"> Millennium, and a former Software Engineering Intern at <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft and <img class="intro-logo" style="width: 15px; padding-bottom: 3px;" src="/images/ups.svg"> UPS.
+		I'm currently a Risk Technology Intern at <img class="intro-logo" style="width: 20px; padding-bottom: 3px;" src="/images/millennium.svg"> Millennium, and in the past, I've been a Software Engineering Intern at <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft and <img class="intro-logo" style="width: 15px; padding-bottom: 3px;" src="/images/ups.svg"> UPS.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
