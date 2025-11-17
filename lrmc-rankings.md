@@ -17,24 +17,24 @@ The LRMC Rating represents the probability that a team is truly the best in the 
 | 4    | Oregon             | 9-1    | 0.73%  | –      |
 | 5    | Utah               | 8-2    | 0.73%  | –      |
 | 6    | Notre Dame         | 8-2    | 0.71%  | –      |
-| 7    | Georgia            | 9-1    | 0.64%  | ⬆5      |
-| 8    | Texas A&M          | 10-0   | 0.64%  | ⬇️1      |
-| 9    | Miami              | 8-2    | 0.63%  | ⬆2      |
-| 10   | Ole Miss           | 10-1   | 0.63%  | ⬇️1      |
-| 11   | Alabama            | 8-2    | 0.63%  | ⬇️3      |
-| 12   | USC                | 8-2    | 0.61%  | ⬆1      |
-| 13   | BYU                | 9-1    | 0.60%  | ⬆2      |
-| 14   | Oklahoma           | 8-2    | 0.58%  | ⬆3      |
-| 15   | Iowa               | 6-4    | 0.57%  | ⬇️1      |
-| 16   | Vanderbilt         | 8-2    | 0.56%  | ⬇️6      |
-| 17   | Washington         | 7-3    | 0.54%  | ⬆6      |
-| 18   | Texas              | 7-3    | 0.53%  | ⬇️2      |
-| 19   | Penn State         | 4-6    | 0.52%  | ⬆1      |
-| 20   | Tennessee          | 7-3    | 0.52%  | ⬇️1      |
-| 21   | Missouri           | 7-3    | 0.51%  | ⬆6      |
-| 22   | Michigan           | 8-2    | 0.51%  | ⬇️1      |
-| 23   | Florida State      | 5-5    | 0.50%  | ⬆3      |
-| 24   | South Florida      | 7-3    | 0.50%  | ⬇️2      |
-| 25   | Virginia           | 9-2    | 0.49%  | ⬆7      |
+| 7    | Georgia            | 9-1    | 0.64%  | <span style="color: green;">&uarr;</span>5      |
+| 8    | Texas A&M          | 10-0   | 0.64%  | <span style="color: red;">&darr;</span>1      |
+| 9    | Miami              | 8-2    | 0.63%  | <span style="color: green;">&uarr;</span>2      |
+| 10   | Ole Miss           | 10-1   | 0.63%  | <span style="color: red;">&darr;</span>1      |
+| 11   | Alabama            | 8-2    | 0.63%  | <span style="color: red;">&darr;</span>3      |
+| 12   | USC                | 8-2    | 0.61%  | <span style="color: green;">&uarr;</span>1      |
+| 13   | BYU                | 9-1    | 0.60%  | <span style="color: green;">&uarr;</span>2      |
+| 14   | Oklahoma           | 8-2    | 0.58%  | <span style="color: green;">&uarr;</span>3      |
+| 15   | Iowa               | 6-4    | 0.57%  | <span style="color: red;">&darr;</span>1      |
+| 16   | Vanderbilt         | 8-2    | 0.56%  | <span style="color: red;">&darr;</span>6      |
+| 17   | Washington         | 7-3    | 0.54%  | <span style="color: green;">&uarr;</span>6      |
+| 18   | Texas              | 7-3    | 0.53%  | <span style="color: red;">&darr;</span>2      |
+| 19   | Penn State         | 4-6    | 0.52%  | <span style="color: green;">&uarr;</span>1      |
+| 20   | Tennessee          | 7-3    | 0.52%  | <span style="color: red;">&darr;</span>1      |
+| 21   | Missouri           | 7-3    | 0.51%  | <span style="color: green;">&uarr;</span>6      |
+| 22   | Michigan           | 8-2    | 0.51%  | <span style="color: red;">&darr;</span>1      |
+| 23   | Florida State      | 5-5    | 0.50%  | <span style="color: green;">&uarr;</span>3      |
+| 24   | South Florida      | 7-3    | 0.50%  | <span style="color: red;">&darr;</span>2      |
+| 25   | Virginia           | 9-2    | 0.49%  | <span style="color: green;">&uarr;</span>7      |
 
 
