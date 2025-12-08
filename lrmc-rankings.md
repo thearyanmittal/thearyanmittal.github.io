@@ -35,7 +35,7 @@ The LRMC Score represents the probability that a team is truly the best in the n
 | 22   | North Texas        | 11-2   | 0.53%  | <span style="color: green; font-weight: bold;">&uarr;2</span> |
 | 23   | Missouri           | 8-4    | 0.52%  | <span style="color: red; font-weight: bold;">&darr;1</span> |
 | 24   | Arizona            | 9-3    | 0.52%  | <span style="color: red; font-weight: bold;">&darr;1</span> |
-| 25   | James Madison      | 12-1   | 0.52%  | <span style="color: green; font-weight: bold;">NEW</span> |
+| 25   | James Madison      | 12-1   | 0.52%  | <span style="color: green; font-weight: bold;">&uarr;3</span> |
 
 
 
