@@ -9,37 +9,37 @@ The LRMC Score represents the strength rating of a team based solely on their re
 
 _*These ratings reflect a score of Western Michigan defeating Michigan 12-7 on Saturday, September 5, 2026._
 
-### Week 8 Rankings
+### Week 10 Rankings
 
-| Rank | Team             | Record | Score | Change |
-|------|------------------|--------|-------|--------|
-| 1    | LSU              | 6-2    | 820   | <span style="color: green; font-weight: bold;">&uarr;2</span> |
-| 2    | Alabama          | 6-2    | 812   | <span style="color: red; font-weight: bold;">&darr;1</span> |
-| 3    | Notre Dame       | 6-1    | 713   | <span style="color: red; font-weight: bold;">&darr;1</span> |
-| 4    | Miami            | 7-0    | 690   | <span style="color: green; font-weight: bold;">&uarr;4</span> |
-| 5    | Indiana          | 7-1    | 675   | <span style="color: green; font-weight: bold;">&uarr;2</span> |
-| 6    | Ohio State       | 6-1    | 669   | <span style="color: red; font-weight: bold;">&darr;1</span> |
-| 7    | Georgia          | 6-1    | 665   | <span style="color: red; font-weight: bold;">&darr;3</span> |
-| 8    | Tennessee        | 6-2    | 663   | <span style="color: red; font-weight: bold;">&darr;2</span> |
-| 9    | Texas            | 5-2    | 632   | <span style="color: green; font-weight: bold;">&uarr;4</span> |
-| 10   | Kentucky         | 7-1    | 617   | <span style="color: green; font-weight: bold;">&uarr;1</span> |
-| 11   | Houston          | 6-2    | 603   | <span style="color: red; font-weight: bold;">&darr;2</span> |
-| 12   | Ole Miss         | 5-2    | 596   | <span style="color: green; font-weight: bold;">&uarr;3</span> |
-| 13   | Utah             | 7-0    | 567   | <span style="color: green; font-weight: bold;">&uarr;6</span> |
-| 14   | UCLA             | 7-0    | 566   | <span style="color: green; font-weight: bold;">&uarr;4</span> |
-| 15   | BYU              | 6-1    | 541   | <span style="color: green; font-weight: bold;">&uarr;1</span> |
-| 16   | Florida          | 5-2    | 540   | <span style="color: red; font-weight: bold;">&darr;4</span> |
-| 17   | Nebraska         | 5-2    | 531   | <span style="color: red; font-weight: bold;">&darr;7</span> |
-| 18   | Texas A&M        | 4-4    | 529   | <span style="color: green; font-weight: bold;">&uarr;8</span> |
-| 19   | Arizona          | 6-1    | 525   | <span style="color: green; font-weight: bold;">&uarr;16</span> |
-| 20   | Northwestern     | 6-1    | 524   | <span style="color: green; font-weight: bold;">&uarr;4</span> |
-| 21   | Wake Forest      | 6-1    | 523   | <span style="color: red; font-weight: bold;">&darr;7</span> |
-| 22   | Oklahoma State   | 5-2    | 514   | <span style="color: green; font-weight: bold;">&uarr;8</span> |
-| 23   | South Carolina   | 4-3    | 509   | <span style="color: green; font-weight: bold;">&uarr;8</span> |
-| 24   | Oregon           | 4-3    | 503   | <span style="color: red; font-weight: bold;">&darr;3</span> |
-| 25   | Missouri         | 5-2    | 499   | <span style="color: red; font-weight: bold;">&darr;8</span> |
+| Rank | Team           | Record | Score | Change |
+|------|----------------|--------|-------|--------|
+| 1    | LSU            | 6-2    | 738   | <span style="color: black; font-weight: bold;">&mdash;</span> |
+| 2    | Alabama        | 6-2    | 719   | <span style="color: black; font-weight: bold;">&mdash;</span> |
+| 3    | Georgia        | 7-1    | 685   | <span style="color: green; font-weight: bold;">&uarr;4</span> |
+| 4    | Notre Dame     | 7-1    | 679   | <span style="color: red; font-weight: bold;">&darr;1</span> |
+| 5    | Texas          | 6-2    | 665   | <span style="color: green; font-weight: bold;">&uarr;4</span> |
+| 6    | Miami          | 8-0    | 661   | <span style="color: red; font-weight: bold;">&darr;2</span> |
+| 7    | Ole Miss       | 6-2    | 651   | <span style="color: green; font-weight: bold;">&uarr;5</span> |
+| 8    | Indiana        | 8-1    | 625   | <span style="color: red; font-weight: bold;">&darr;3</span> |
+| 9    | Ohio State     | 6-2    | 620   | <span style="color: red; font-weight: bold;">&darr;3</span> |
+| 10   | Utah           | 8-0    | 606   | <span style="color: green; font-weight: bold;">&uarr;3</span> |
+| 11   | Tennessee      | 6-2    | 591   | <span style="color: red; font-weight: bold;">&darr;3</span> |
+| 12   | Wake Forest    | 7-1    | 561   | <span style="color: green; font-weight: bold;">&uarr;9</span> |
+| 13   | UCLA           | 8-0    | 555   | <span style="color: green; font-weight: bold;">&uarr;1</span> |
+| 14   | Kentucky       | 7-1    | 549   | <span style="color: red; font-weight: bold;">&darr;4</span> |
+| 15   | Florida        | 5-3    | 541   | <span style="color: green; font-weight: bold;">&uarr;1</span> |
+| 16   | USC            | 7-2    | 541   | <span style="color: green; font-weight: bold;">&uarr;15</span> |
+| 17   | Missouri       | 6-2    | 537   | <span style="color: green; font-weight: bold;">&uarr;8</span> |
+| 18   | South Carolina | 5-3    | 533   | <span style="color: green; font-weight: bold;">&uarr;5</span> |
+| 19   | Houston        | 6-2    | 523   | <span style="color: red; font-weight: bold;">&darr;8</span> |
+| 20   | Oregon         | 5-3    | 518   | <span style="color: green; font-weight: bold;">&uarr;4</span> |
+| 21   | Iowa           | 6-2    | 516   | <span style="color: green; font-weight: bold;">&uarr;16</span> |
+| 22   | Northwestern   | 6-2    | 513   | <span style="color: red; font-weight: bold;">&darr;2</span> |
+| 23   | BYU            | 7-1    | 509   | <span style="color: red; font-weight: bold;">&darr;8</span> |
+| 24   | Arizona        | 6-2    | 507   | <span style="color: red; font-weight: bold;">&darr;5</span> |
+| 25   | Texas Tech     | 7-1    | 499   | <span style="color: green; font-weight: bold;">&uarr;3</span> |
 
-_**Dropped Out:** 20. Louisville, 22. Texas Tech, 23. Oregon State, 25. USC_
+_**Dropped Out:** 17. Nebraska, 18. Texas A&M, 22. Oklahoma State_
 
 
 
